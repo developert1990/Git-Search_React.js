@@ -1,0 +1,36 @@
+.user{
+.userName{
+    font-weight: bolder;
+}
+    i{
+        margin-right: 15px;
+    }
+.user__top{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+img{
+    width: 200px;
+    border-radius: 50%;
+}
+
+h5{
+    font-weight: bolder;
+}
+
+.fa-building{
+    color: rgb(31, 87, 20);
+}
+
+.fa-twitter{
+    color: rgb(51, 62, 165);
+}
+
+.fa-map-marker-alt{
+    color: black;
+}
+
+}

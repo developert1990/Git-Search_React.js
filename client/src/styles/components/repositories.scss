@@ -1,0 +1,27 @@
+.repositories {
+
+    .repositories__nav {
+        display: flex;
+
+        i {
+            font-size: 40px;
+            color: rgb(189, 77, 96);
+            
+        }
+
+        h3 {
+            margin: 0 auto;
+            font-weight: bolder;
+        }
+        margin-bottom: 15px;
+    }
+
+    .repositories__detail {
+        h6 {
+            font-weight: bolder;
+            margin: 0;
+        }
+
+    }
+
+}

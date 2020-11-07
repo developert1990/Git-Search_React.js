@@ -1,0 +1,33 @@
+.followers {
+
+    .followers__nav {
+        display: flex;
+
+        i {
+            font-size: 40px;
+            color: rgb(43, 60, 156);
+        }
+
+        h3 {
+            margin: 0 auto;
+            font-weight: bolder;
+        }
+        margin-bottom: 15px;
+    }
+
+    .followers__detail {
+        display: flex;
+        margin-bottom: 7px;
+        img{
+            width: 60px;
+            border-radius: 50%;
+            margin-right: 15px;
+        }
+        h6 {
+            font-weight: bolder;
+            margin: 0;
+        }
+
+    }
+
+}
